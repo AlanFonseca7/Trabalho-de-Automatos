@@ -1,12 +1,12 @@
-#Ferramenta que transforma automatos AFND em AFD.
+# Ferramenta que transforma automatos AFND em AFD.
 
-##Como iniciar a ferramenta.
+## Como iniciar a ferramenta.
 
-##Primeiro faça a instalação:
+## Primeiro faça a instalação:
 
 pip install -r requirements.txt
 
-##e depois use o comando no terminal:
+## e depois use o comando no terminal:
 
 py main.py
 
