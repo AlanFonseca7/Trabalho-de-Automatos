@@ -1,6 +1,8 @@
 # Ferramenta que transforma automatos AFND em AFD.
 
-## Como iniciar a ferramenta.
+## Iniciando a Ferramenta.
+
+  Primeiros passos para dar inicio ao uso do programa abaixo.
 
 ## Primeiro faça a instalação:
 
